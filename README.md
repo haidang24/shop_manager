@@ -138,4 +138,4 @@ src/
 
 ## Copyright
 
-© 2025 AT19N0105_MaiHaiDang. All rights reserved. 
+© 2025 MaiHaiDang. All rights reserved. 
