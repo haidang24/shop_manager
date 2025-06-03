@@ -50,23 +50,6 @@
    java -jar target/clothing-shop-manager-1.0-SNAPSHOT-jar-with-dependencies.jar
    ```
 
-### Sử dụng Maven
-
-1. Chạy ứng dụng từ cửa sổ Terminal/Command Prompt:
-   ```
-   mvn compile exec:java -Dexec.mainClass="com.shopmanager.ui.LoginForm"
-   ```
-
-2. Hoặc chạy MainWindow trực tiếp:
-   ```
-   mvn compile exec:java -Dexec.mainClass="com.shopmanager.ui.MainWindow"
-   ```
-
-### Sử dụng IDE
-
-1. Mở project trong IDE (IntelliJ IDEA hoặc Eclipse)
-2. Chạy file `src/main/java/com/shopmanager/ui/LoginForm.java` để mở form đăng nhập
-3. Hoặc chạy file `src/main/java/com/shopmanager/ui/MainWindow.java` trực tiếp
 
 ### Thông tin đăng nhập
 
